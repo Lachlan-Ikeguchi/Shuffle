@@ -1,3 +1,5 @@
+#!/usr/bin/env -S julia -t auto
+
 using Random
 
 struct card
